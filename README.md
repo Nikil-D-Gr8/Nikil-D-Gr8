@@ -1,31 +1,61 @@
-### Hello there ###
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">I'm Nikil Paul from South India!</h3>
 
-I'm Nikil Paul S from Hosur, Tamil Nadu! 🇮🇳
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Nikil-D-Gr8&label=Profile%20views&color=0e75b6&style=flat" alt="Nikil-D-Gr8" /> 
+</p>
 
-🎓 I'm a curious soul with a diverse academic journey. I kicked off my intellectual quest at Gandhigram Rural Institute, where I delved into the intricate world of physics. My choice of physics as an undergrad major was driven by an insatiable desire to unravel the mysteries of the universe we call home. Mathematics, in my opinion, is a potent tool that remains remarkably underrated.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-🛠️ During my undergraduate years, I found myself captivated by the realm of electronics and tinkering. I honed my skills in the Arduino , creating projects that bridged the gap between the digital and physical worlds. It was through these hands-on experiences that I learned the art of problem-solving, precision, and innovation.
+- 🔭 I’m currently working on **Nothing worth mentioning** (actually, I was sworn to secrecy)
+- 🌱 Learning **some full-stack development tools** to make my life easier
+- 📫 Mail me at **snikilpaul@gmail.com** (It's pretty rare for me to miss a mail from what I am told)
 
-🔍 Fast forward to today, and I'm on a thrilling journey into the realm of Computer science. Currently pursuing an MSc in Applied Data Science at SRM, I'm combining my physics background with software tools like Python and MATLAB. My transition into the world of data science is driven by an unquenchable thirst for understanding patterns, making informed decisions, and extracting valuable insights from complex datasets.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/nikil-paul-653419215/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikil-D-Gr8" height="30" width="40" />
+  </a>
+</p>
 
-📚 When I'm not building small software to automate or make my work easy, you can find me enjoying anime, diving into English series and movies, and of course, relishing memes—the ultimate language of the internet.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
 
-🌌 My passion for learning, coupled with my knack for analysis, guides my journey as I navigate the realms of both science and technology. Join me as I embrace the exciting interplay between these domains and continue to explore the vast expanse of knowledge.
+</p>
 
-- 🌱 I’m currently learning C programming , Some data science Python libraries , webautomation and full stack(exploring a bit of all tech stacks)
- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikil-D-Gr8&show_icons=true&locale=en&layout=compact" alt="Nikil-D-Gr8" /></p>
 
-<!--
-**Nikil-D-Gr8/Nikil-D-Gr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikil-D-Gr8&show_icons=true&locale=en" alt="Nikil-D-Gr8" /></p>
