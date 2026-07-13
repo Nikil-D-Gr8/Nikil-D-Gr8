@@ -1,1 +1,1 @@
-check the site at [<a href=nikilpaul.com>nikilpaul.com</a>](https://nikilpaul.com/)
+check the site at [nikilpaul.com](https://nikilpaul.com/)
